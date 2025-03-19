@@ -10,10 +10,6 @@
   ##### 4. 개인정보 보호
   ##### 5. 이용 약관 확인
 
-- robots.txt
-  
-![TransferMarkt_robots.txt](https://github.com/ganghyo/TransferMarkt/blob/main/TransferMarkt_robots.png)
-
 
 출처: [Jay GIL | Python 실전 프로젝트] https://www.youtube.com/watch?v=-S31mFVQM00&list=PL13IrJom4GzssqejzOqR2S0OukBIyufjy&t=589s
 
