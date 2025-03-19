@@ -11,6 +11,7 @@
 5. 이용 약관 확인
 
 - robots.txt
+  
 ![TransferMarkt_robots.txt](https://github.com/ganghyo/TransferMarkt/blob/main/TransferMarkt_robots.png)
 
 
