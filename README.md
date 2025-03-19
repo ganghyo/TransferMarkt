@@ -16,4 +16,5 @@
 
 
 출처: [Jay GIL | Python 실전 프로젝트] https://www.youtube.com/watch?v=-S31mFVQM00&list=PL13IrJom4GzssqejzOqR2S0OukBIyufjy&t=589s
+
 출처: [웹 크롤링 완벽 가이드: 초보자부터 전문가까지] https://miki3079.tistory.com/151
